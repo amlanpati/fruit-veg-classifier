@@ -14,8 +14,8 @@ The web application is built using Flask and allows users to upload images of fr
 The dataset used to train the model is not included in this repository. However, you can create your own dataset by collecting images of different fruits and vegetables and annotating them with their corresponding class labels.
 ## Class Names
 The following class names are used in the model:
--apple
--banana
+*apple
+*banana
 -beetroot
 -bell pepper
 -cabbage

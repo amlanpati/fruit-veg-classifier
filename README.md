@@ -6,7 +6,7 @@ The model is a convolutional neural network (CNN) trained on a dataset of images
 ## Web Application
 The web application is built using Flask and allows users to upload images of fruits and vegetables for classification. The application uses the trained model to predict the class of the uploaded image and displays the result.
 ## How to Run
-1. Clone the repository: ```git clone https://github.com/your-username/fruit-veg-classification.git```
+1. Clone the repository: ```git clone https://github.com/amlanpati/fruit-veg-classification.git```
 2. Install the required dependencies: ```pip install -r requirements.txt```
 3. Run the web application: ```python app.py```
 4. Open a web browser and navigate to http://localhost:5000 to use the application
